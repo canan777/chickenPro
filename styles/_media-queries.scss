@@ -1,0 +1,13 @@
+/*tablet uyumu*/
+@mixin tablet{
+    @media screen and (max-width:768px){
+       @content;
+    }
+}
+
+/*telefon uyumu*/
+@mixin mobile{
+    @media screen and (max-width:540px){
+       @content;
+    }
+}
