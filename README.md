@@ -3,7 +3,7 @@ This project includes the homepage of a website that provides comprehensive info
 This website is designed to work seamlessly across different devices (computer, tablet, mobile) so you get the best experience on any screen size.
 
 
-<h1>used tecnolojies</h1>
+<h1>used technolojies</h1>
 
 HTML
 CSS
